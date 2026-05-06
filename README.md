@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Deepali Singh 👋
 
-<!--
-**deepali0017/deepali0017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year ECE student passionate about AI, sustainability, and scalable software systems.
 
-Here are some ideas to get you started:
+🚀 Currently building CreditX — an AI-powered carbon intelligence platform for Indian MSMEs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python • css • Firebase • JavaScript • SQLite • Git/GitHub 
+
+## Currently Learning
+- DSA in C++
+- Full Stack Development
+- Open Source Contributions
+- System Design Fundamentals
+
+## Featured Project
+### CreditX
+AI-powered carbon intelligence platform for MSMEs to track emissions, generate insights, and prepare for carbon credit opportunities.
+
+## Interests
+AI Systems • Climate Tech • Backend Engineering • Open Source
+
+## Connect with me
+- LinkedIn: https://www.linkedin.com/in/deepali25a/
+- GitHub: https://github.com/deepali0017
